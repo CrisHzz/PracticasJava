@@ -1,0 +1,26 @@
+import java.util.ArrayList; //Si se desea usar un array list se importa
+
+public class arreglos {
+    public static void main(String[] args) {
+        String[] worstYears= new String[4]; //Creo una lista De tipo String que posee un maximo de elementos 4
+        String[] BestDay=new String[1];
+        ArrayList<String> medication=new ArrayList<>(); //Creacion de una array list de tipo String sin elementos limitados
+        worstYears[0]="2018";
+        worstYears[1]="2019";
+        worstYears[2]="2020";
+        worstYears[3]="2023";
+        for (String worstYear : worstYears) { //Una forma de imprimir arreglos en java
+            System.out.println(worstYear);
+        }
+        medication.add(0,"Cream");
+        medication.add(1,"Pills");
+        medication.add(2,"Med kit");
+        medication.add(3,"Medicine");
+        System.out.println(medication); //Los array list no necesitan un for para ser impresos
+
+        BestDay[0]="Thursday";
+        for (String i:BestDay){ //Un for con un I iterativo con el tipo de dato que es la lista y se imprime
+            System.out.println(i);
+        }
+
+    }
