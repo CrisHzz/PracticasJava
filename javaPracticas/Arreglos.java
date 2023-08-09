@@ -1,6 +1,6 @@
 import java.util.ArrayList; //Si se desea usar un array list se importa
 
-public class arreglos {
+public class Arreglos {
     public static void main(String[] args) {
         String[] worstYears = new String[4]; //Creo una lista De tipo String que posee un maximo de elementos 4
         String[] BestDay = new String[1];
