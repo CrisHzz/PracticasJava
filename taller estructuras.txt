@@ -1,0 +1,16 @@
+Crear una funcion recursiva que reciba un entero y retorne cuantos digitos de este numero son multiplos de 2 y de 4.
+Ignorar el 0
+*Que es un multiplo,validacion dual de los 2 numeros,cuidado con el 6 multiplo de 2 y no de 4 ,0 es el de todos 
+
+Crear funcion no recursiva que invierta solo la mitad de un string(La segunda mitad) mas no la primera no se pierd
+auto ---> au(ot)
+
+Crear una funcion recursiva que calcule las sumatorias de todos los numeros impares de una matriz cuadrada (Tipo parcial)
+(No necesariamente que sean 2x2) (Posiblemente pares,primos en el examen) Recorrer la matriz es la clave
+
+Crear funcion recursiva que reciba una lista, un elemento,y un indice y retorne si el elemento esta en la lista dada y en el indice dado
+
+Crear una funcion recursiva que reciba un string alfanumerico que extraiga los digitos del string y retorne el numero formado por todos los digitos
+ 
+
+
